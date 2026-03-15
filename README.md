@@ -39,7 +39,7 @@ The project includes:
 
 ## Visualisation
 
-![London Housing Prices](london_borough_prices.png)
+![London Housing Prices](Average london housing prices over time.png)
 
 ## Author
 Parvez Hussain  
