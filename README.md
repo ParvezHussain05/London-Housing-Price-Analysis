@@ -1,15 +1,15 @@
 # London Housing Price Analysis
 
 ## Project Overview
-This project analyses housing price trends across London boroughs using historical property price data.
+This project analyses housing price trends across London using historical property price data.
 
-The goal of the project is to identify long-term housing price trends and determine which boroughs have the highest average property prices.
+The goal of the analysis is to identify how average housing prices in London have changed over time and highlight long-term growth trends in the property market.
 
 ## Dataset
 Dataset: Average House Prices by Borough  
 Source: London Datastore (Greater London Authority)
 
-The dataset contains yearly average housing prices for London boroughs derived from HM Land Registry transaction data.
+The dataset contains yearly average housing prices derived from HM Land Registry transaction data.
 
 ## Tools Used
 - Python
@@ -18,28 +18,24 @@ The dataset contains yearly average housing prices for London boroughs derived f
 - Google Colab
 
 ## Data Cleaning
-The dataset required several preprocessing steps:
+Several preprocessing steps were required before analysis:
 
-- Extracting the numeric year from text values
-- Removing commas from price values
-- Converting price columns to numeric format
-- Filtering the dataset to use mean house prices
+- Extracted the numeric year from the original text-based year column
+- Removed commas from price values
+- Converted price data to numeric format
+- Filtered the dataset to analyse mean house prices
 
-## Analysis Performed
-The project includes:
-
-- Analysis of average London housing price trends over time
-- Identification of the most expensive London boroughs
-- Data visualisation of housing price patterns
+## Analysis
+The analysis calculates the average housing price across London boroughs for each year and visualises the long-term trend in the London property market.
 
 ## Key Insights
-- London housing prices have increased significantly over time.
-- Central boroughs such as Kensington and Chelsea and Westminster consistently have the highest property prices.
-- Housing prices vary widely between London boroughs.
+- London housing prices have increased significantly since the mid-1990s.
+- The largest growth occurred after 2012, where prices rose rapidly.
+- Overall, the data shows a strong long-term upward trend in the London housing market.
 
 ## Visualisation
 
-![London Housing Prices](Average london housing prices over time.png)
+![Average London Housing Prices Over Time](london_housing_prices.png)
 
 ## Author
 Parvez Hussain  
