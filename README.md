@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyses housing price trends across London using historical property price data.
 
-The goal of the analysis is to identify how average housing prices in London have changed over time and highlight long-term growth trends in the property market.
+The goal of the analysis is to identify how average housing prices in London have changed over time and highlight long term growth trends in the property market.
 
 ## Dataset
 Dataset: Average House Prices by Borough  
@@ -26,7 +26,7 @@ Several preprocessing steps were required before analysis:
 - Filtered the dataset to analyse mean house prices
 
 ## Analysis
-The analysis calculates the average housing price across London boroughs for each year and visualises the long-term trend in the London property market.
+The analysis calculates the average housing price across London boroughs for each year and visualises the long term trend in the London property market.
 
 ## Key Insights
 - London housing prices have increased significantly since the mid-1990s.
